@@ -1,0 +1,50 @@
+.centrado{
+    margin: 10px auto;
+    display:block;
+}
+
+.fondo-imagen{
+    width: 1440px;
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+    background: #E6E6E6;
+}
+
+.sangria{
+    margin-left: 80px;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+.tipo-letra{
+    font-family: 'Times New Roman', Times, serif;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
+footer{
+    color:#FFFFFF ;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #005677 ;
+    width: 1440px;
+    height: 30px;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    
+    
+}
+
+.espacio-logos{
+    margin:0 4px;
+    vertical-align: middle;
+}
+
+
+
+
